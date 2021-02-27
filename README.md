@@ -12,7 +12,7 @@ A very simple wrapper for [node-cache](https://www.npmjs.com/package/node-cache)
     ```
 
 ## Using
-You can encrypt your PDF by following:
+You can cache your method response by following:
 ```
 import cache from 'node-cache-decorator';
 
