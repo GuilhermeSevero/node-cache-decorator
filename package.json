@@ -18,5 +18,13 @@
   },
   "dependencies": {
     "node-cache": "^5.1.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuilhermeSevero/node-cache-decorator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GuilhermeSevero/node-cache-decorator/issues"
+  },
+  "homepage": "https://github.com/GuilhermeSevero/node-cache-decorator#readme"
 }
